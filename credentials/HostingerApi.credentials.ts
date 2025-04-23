@@ -14,6 +14,9 @@ export class HostingerApi implements ICredentialType {
 			displayName: 'API Token',
 			name: 'apiKey',
 			type: 'string',
+			typeOptions: {
+				password: true
+			},
 			default: '',
 			required: true,
 			placeholder: 'Your API Token',
