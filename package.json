@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MinijusS/n8n-hostinger"
+    "url": "https://github.com/hostinger/api-n8n-node"
   },
   "main": "index.js",
   "scripts": {
